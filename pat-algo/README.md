@@ -1,5 +1,5 @@
-## pta
+## pat
 
-PTA认证题库解法
+PAT认证题库解法
 
 https://www.patest.cn/practice
