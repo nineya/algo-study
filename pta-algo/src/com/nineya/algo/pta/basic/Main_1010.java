@@ -1,4 +1,4 @@
-package com.nineya.algo.pta_basic;
+package com.nineya.algo.pta.basic;
 
 import java.util.ArrayList;
 import java.util.List;
