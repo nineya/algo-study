@@ -1,28 +1,12 @@
 package com.nineya.algo.leetcode.algorithms;
 
+import com.nineya.algo.leetcode.algorithms.assist.ListNode;
 import com.sun.corba.se.impl.orbutil.LogKeywords;
 
 /**
  * @author 殇雪话诀别
  * 2021/4/15
  */
-class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode() {
-    }
-
-    ListNode(int val) {
-        this.val = val;
-    }
-
-    ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
-    }
-}
-
 public class Solution_21 {
 
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
