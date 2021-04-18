@@ -8,20 +8,6 @@ import com.nineya.algo.leetcode.algorithms.assist.TreeNode;
  */
 
 public class Solution_111 {
-    private int doMaxDepth(TreeNode node, int depth) {
-        if (node.right == null && node.left == null) {
-            return depth;
-        }
-        depth++;
-        if (node.left != null && node.right != null) {
-            return Math.max(doMaxDepth(node.left, depth), doMaxDepth(node.right, depth));
-        }
-        if (node.right != null) {
-            return doMaxDepth(node.right, depth);
-        }
-        return doMaxDepth(node.left, depth);
-    }
-
     public int minDepth(TreeNode root) {
         if (root == null) {
             return 0;
