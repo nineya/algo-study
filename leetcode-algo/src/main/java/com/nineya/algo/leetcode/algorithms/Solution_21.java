@@ -1,7 +1,6 @@
 package com.nineya.algo.leetcode.algorithms;
 
-import com.nineya.algo.leetcode.algorithms.assist.ListNode;
-import com.sun.corba.se.impl.orbutil.LogKeywords;
+import com.nineya.algo.leetcode.assist.ListNode;
 
 /**
  * @author 殇雪话诀别

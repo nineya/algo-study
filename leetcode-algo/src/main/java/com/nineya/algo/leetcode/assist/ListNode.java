@@ -1,4 +1,4 @@
-package com.nineya.algo.leetcode.algorithms.assist;
+package com.nineya.algo.leetcode.assist;
 
 /**
  * @author 殇雪话诀别

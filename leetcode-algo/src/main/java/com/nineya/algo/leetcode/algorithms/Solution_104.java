@@ -1,6 +1,6 @@
 package com.nineya.algo.leetcode.algorithms;
 
-import com.nineya.algo.leetcode.algorithms.assist.TreeNode;
+import com.nineya.algo.leetcode.assist.TreeNode;
 
 /**
  * @author 殇雪话诀别
